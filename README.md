@@ -1,1 +1,1 @@
-# algorithmsmadeeasy
+# Algorithms Made Easy
