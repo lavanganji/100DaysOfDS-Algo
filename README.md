@@ -1,4 +1,4 @@
-# Algorithms Made Easy 
+# 100 Days of Data Structures and Algorithms
 
 [testlink](https://www.google.com/) -- this is the external link
 
