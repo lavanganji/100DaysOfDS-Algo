@@ -1,7 +1,5 @@
 # 100 Days of Data Structures and Algorithms
 
-[testlink](https://www.google.com/) -- this is the external link
-
 | DAY |             Title                   | Solution | Difficulty | Medium Link |
 |-----| ------------------------------------| -------- | ---------- | ----------- |
 | 1 |[Insertion Sort Example](https://en.wikipedia.org/wiki/Insertion_sort) | [JAVA](https://github.com/lavanganji/AlgorithmsMadeEasy/blob/master/src/org.lkg.ds/StackArray.java)|Easy|[M](https://medium.com/csinterviewprep/day-0-stacks-2188bef60bca) |
