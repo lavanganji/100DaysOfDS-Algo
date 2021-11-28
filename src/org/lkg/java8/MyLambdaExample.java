@@ -23,7 +23,7 @@ public class MyLambdaExample {
 		
 		greetLambdaFunc.perform();
 		 
-		 //  MyAdd addFunction = (int a, int b,int c) -> a+b+c ;
+		 //  MyAdd addFunction = (int a, int b,int c) -> a+b+c ;   
 
 
 	}
