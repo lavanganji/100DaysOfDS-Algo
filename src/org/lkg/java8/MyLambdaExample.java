@@ -21,10 +21,26 @@ public class MyLambdaExample {
 		
 		Greeting greetLambdaFunc = () -> System.out.println("This is greeing from lamda");
 		
-		greetLambdaFunc.perform();
+		greetLambdaFunc.perform();  // One way of calling the lambda funcitons 
 		 
 		 //  MyAdd addFunction = (int a, int b,int c) -> a+b+c ;   
-
+		
+		
+		Greeting lambdaGreeting = () -> System.out.println("This is from Lambda Greeting.");
+		
+		
+		// Inner Class Anonymous Example
+		Greeting innerClassGreeting = new Greeting() {
+			
+			@Override
+			public void perform() {
+				System.out.println("This is from inner Class Greeting.");
+				
+			}
+		};
+		
+		mlf.greetingInterface(lambdaGreeting);
+		mlf.greetingInterface(innerClassGreeting);
 
 	}
 	
